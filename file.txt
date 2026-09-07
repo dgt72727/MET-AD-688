@@ -1,1 +1,4 @@
 Conflict in master
+Original file
+Conflict in develop
+
